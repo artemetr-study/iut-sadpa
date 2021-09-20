@@ -1,0 +1,4 @@
+Ilian;Tail;Roma;5;5;5;5;5;12;
+Talin;Tail;Nani;5;3;5;2;5;12;
+Iut;Igin;Ares;2;2;2;2;2;11;
+Fax;Liko;Deta;5;5;2;2;5;10;
